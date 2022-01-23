@@ -2,7 +2,9 @@
 This is the repo for community discussions. Go to the discussions tab in this repo, and there you can create a discussion, or just comment on an already there discussion.
 
 ## Subscribe
-There will be a discussion(called announcments) which is the basic one for community announcments. Go to that discussion, scroll down, and hit the button which says subscribe. The button will be on the right side. This is so you can get notifications on all the posts on this discussion. ![Subscribe](https://user-images.githubusercontent.com/59022059/103904546-69e30180-50cb-11eb-891e-0d6a63ab678a.png)
+There will be a discussion(called announcments) which is the basic one for community announcments. Go to that discussion, scroll down, and hit the button which says subscribe. The button will be on the right side. This is so you can get notifications on all the posts on this discussion.
+
+![Subscribe](https://user-images.githubusercontent.com/59022059/103904546-69e30180-50cb-11eb-891e-0d6a63ab678a.png)
 
 
 ## Fun
